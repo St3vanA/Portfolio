@@ -1,3 +1,3 @@
 # Portfolio
-Portfoloio About Esteban Arredondo
+Portfolio About Esteban Arredondo
 Contact Info and work on Github
